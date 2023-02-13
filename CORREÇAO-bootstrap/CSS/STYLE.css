@@ -11,3 +11,6 @@ header{
 .pesquisa{
     background: linear-gradient(to right,var(--dark-blue-300), var(--dark-blue-700));
 }
+footer{
+  background: var(--dark-blue-400);
+}
